@@ -1,2 +1,2 @@
-# MihailEgorov.github.io
+# Егоров Михаил
 Мои домашки
