@@ -1,0 +1,83 @@
+body
+{
+	text-align: center;
+	box-sizing: border-box;
+}
+@color:#01b3b3;
+
+.font(@rz:12px){
+	font-family: Aril, sans-serif;
+	font-size: @rz;
+	font-weight: 700;
+}
+
+
+div#content
+{
+	position: relative;
+	top:50%;
+	margin-top: 185px;
+	margin-left: auto;
+	margin-right: auto;
+	width: 320px;
+	height: 370px;
+	text-align:left;
+	border:2px solid #cfdede;
+	
+	 input{
+			width: 260px;
+			height: 26px;
+			margin-left: 28px;
+			border-radius: 0;
+		}
+	.lable{
+		background-color: @color;
+		width: 152px;
+		height:25px;
+		margin-left: 28px;
+		margin-top: -16px; 
+		margin-bottom: 29px;
+		text-align: center;
+		
+		& p{
+			.font();
+			text-transform:uppercase;
+			padding:4px 10px;
+
+		}
+
+	}
+	.email{
+		.font();
+		& p{
+			margin-bottom: 12px;
+			margin-left: 30px;
+		}
+		margin-bottom: 16px;
+	}
+	.password{
+		.font();
+		& p{
+			margin-bottom: 14px;
+			margin-left: 30px;
+		}
+		margin-bottom: 16px; 
+	}
+	.common__password{
+		.font();
+		& p{
+			margin-bottom: 14px;
+			margin-left: 30px;
+		}
+		margin-bottom: 32px; 
+	}
+	.__btn{
+		width: 264px;
+		height: 48px;
+		background-color:@color;
+		margin-left: 28px;
+		border-radius:5px;
+		.font(16px);
+		text-transform:uppercase;
+	}
+}
