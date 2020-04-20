@@ -1,0 +1,45 @@
+/* ===== Basic satings ====== */
+body {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  font-size: 10px;
+}
+section {
+  padding: 10rem 0;
+}
+.button {
+  color: #fff;
+  text-transform: uppercase;
+  background-color: #f7af01;
+  border-radius: 5px;
+  border: none;
+  font-size: 12px;
+  font-weight: 900;
+  padding: 1rem 3rem;
+}
+/* font */
+/* ========= Heder ========== */
+.header {
+  margin-top: 2rem;
+  height: 7rem;
+}
+.fon__link {
+  font-family: 'Myriad Pro', sans-serif;
+  font-weight: 900;
+  color: #292929;
+  text-decoration: none;
+  display: inline-block;
+  height: 7rem;
+  line-height: 7rem;
+  font-size: 15px;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap__block {
+  display: table-cell;
+  vertical-align: middle;
+}
+/* ========= Heder ========== */
