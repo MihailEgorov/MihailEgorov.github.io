@@ -9,3 +9,5 @@
 [web__kurs__practic](https://mihailegorov.github.io/web__kurs__practic/ "web__kurs__practic верстка header ") - web__kurs__practic верстка header
 
 [web__kurs__practic__main](https://mihailegorov.github.io/web__kurs__practic__main/ "web__kurs__practic верстка главного экрана ") - web__kurs__practic верстка главного экрана
+
+[web__kurs__practic__main__adaptive](https://mihailegorov.github.io/web__kurs__practic__main__adaptive/") - web__kurs__practic верстка главного экрана  адаптивный вариант
