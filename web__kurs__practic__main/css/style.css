@@ -1,0 +1,165 @@
+/* ======= Fonts family ========= */
+@font-face {
+  font-family: 'ProximaNova__reg';
+  src: url('../fonts/ProximaNova-Regular.eot');
+  src: url('../fonts/ProximaNova-Regular.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Regular.woff2') format('woff2'), url('../fonts/ProximaNova-Regular.woff') format('woff'), url('../fonts/ProximaNova-Regular.ttf') format('truetype'), url('../fonts/ProximaNova-Regular.svg#ProximaNova-Regular') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'ProximaNova__bold';
+  src: url('../fonts/ProximaNova-Bold.eot');
+  src: url('../fonts/ProximaNova-Bold.eot?#iefix') format('embedded-opentype'), url('../fonts/ProximaNova-Bold.woff2') format('woff2'), url('../fonts/ProximaNova-Bold.woff') format('woff'), url('../fonts/ProximaNova-Bold.ttf') format('truetype'), url('../fonts/ProximaNova-Bold.svg#ProximaNova-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+/* ===== font setings ======= */
+/* ===== Basic satings ====== */
+html {
+  font-size: 10px;
+}
+body {
+  font-family: 'ProximaNova__reg', sans-serif;
+}
+/* ======== Colors ========= */
+section {
+  padding: 10rem 0;
+}
+.button {
+  font-family: 'ProximaNova__reg', sans-serif;
+  color: #fff;
+  text-transform: uppercase;
+  background-color: #f7af01;
+  border-radius: 5px;
+  border: none;
+  font-size: 1.2rem;
+  font-weight: 900;
+  padding: 1.7rem 3rem;
+}
+.main {
+  padding: 3rem 0 10rem;
+  background: #ffffff url(../img/main__bg.jpg) center center no-repeat;
+  background-size: cover;
+}
+.main__content {
+  margin-top: 10rem;
+}
+.main__header {
+  font-family: 'ProximaNova__bold', sans-serif;
+  text-transform: uppercase;
+  font-size: 4rem;
+  line-height: 1.4;
+  color: #292929;
+}
+.main__subtitle {
+  margin-top: 4rem;
+  font-family: 'ProximaNova__reg', sans-serif;
+  font-size: 2.4rem;
+  color: #292929;
+}
+.main__cost__of__work {
+  display: inline-block;
+  margin-top: 4rem;
+  padding: 3rem 5rem 2rem;
+  font-size: 1.8rem;
+  text-align: center;
+  background-color: #70c849;
+}
+.main__cost__of__work strong {
+  font-size: 3rem;
+  font-family: 'ProximaNova__bold', sans-serif;
+}
+.main__payment {
+  display: block;
+  margin-top: 3rem;
+  font-family: 'ProximaNova__bold', sans-serif;
+  font-size: 2.3rem;
+  text-transform: uppercase;
+}
+.main__form {
+  text-align: center;
+  background-color: #fff;
+  padding: 4rem 5rem;
+  /* ======== lable name ========= */
+  /* ======== lable phone ========= */
+}
+.main__form__name {
+  position: absolute;
+  padding: 0.5rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(-50%);
+          transform: translateX(-50%) translateY(-50%);
+  font-family: 'ProximaNova__reg', sans-serif;
+  color: #292929;
+  font-size: 1.3rem;
+  background-color: #fff;
+}
+.main__form__phone {
+  position: absolute;
+  padding: 0.5rem;
+  left: 50%;
+  -webkit-transform: translateX(-50%) translateY(60%);
+          transform: translateX(-50%) translateY(60%);
+  font-family: 'ProximaNova__reg', sans-serif;
+  color: #292929;
+  font-size: 1.3rem;
+  background-color: #fff;
+}
+.main__form__header {
+  font-family: 'ProximaNova__reg', sans-serif;
+  font-size: 1.8rem;
+  margin-bottom: 4rem;
+}
+.main__form__header strong {
+  font-size: 1.9rem;
+}
+.main__form__input {
+  display: block;
+  width: 100%;
+  padding: 1.5rem;
+  border: 2px solid #dddddd;
+  border-radius: 0.5rem;
+  margin-top: 3rem;
+}
+.main__form__btn {
+  margin-top: 2rem;
+  width: 100%;
+  height: 6.5rem;
+  font-family: 'ProximaNova__reg', sans-serif;
+  font-size: 1.6rem;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 2rem;
+}
+.main__form small {
+  display: block;
+  font-family: 'ProximaNova__reg', sans-serif;
+  color: #292929;
+  font-size: 1.3rem;
+}
+/* ========= Header ========== */
+.header {
+  height: 7rem;
+}
+.phone__block {
+  text-align: right;
+}
+.phone__link {
+  display: inline-block;
+  text-decoration: none;
+  font-family: 'ProximaNova__bold', sans-serif;
+  height: 7rem;
+  line-height: 7rem;
+  font-size: 2rem;
+  color: #292929;
+}
+.wrap {
+  display: table;
+  width: 100%;
+  height: 7rem;
+}
+.wrap__block {
+  display: table-cell;
+  vertical-align: middle;
+  text-align: right;
+}
