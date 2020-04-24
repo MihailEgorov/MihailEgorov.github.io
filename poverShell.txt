@@ -1,3 +1,0 @@
-cd D:\3_kurs_2_sem\Web__project
-Set-ExecutionPolicy Unrestricted
-browser-sync start --server --files="**.*"
