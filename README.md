@@ -12,4 +12,4 @@
 
 [web__kurs__practic__main__adaptive](https://mihailegorov.github.io/web__kurs__practic__main__adaptive/") - web__kurs__practic верстка главного экрана  адаптивный вариант
 
-[web__kurs__practic__main__click__carusel](https://mihailegorov.github.io/web__kurs__practic__main__click__carusel/") - web__kurs__practic верстка главного блока с преимуществами
+[web__kurs__practic__main__click__carusel](https://mihailegorov.github.io/web__kurs__practic__main__click__carusel/") - web__kurs__practic верстка блока с преимуществами
