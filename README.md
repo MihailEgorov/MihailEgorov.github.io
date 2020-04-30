@@ -15,3 +15,5 @@
 [web__kurs__practic__main__click__carusel](https://mihailegorov.github.io/web__kurs__practic__main__click__carusel/ "верстка блока с преимуществами ") - web__kurs__practic верстка блока с преимуществами
 
 [web__kurs__practic__секция отзывов](https://mihailegorov.github.io/web__kurs__practic__секция%20отзывов/ "верстка блока с отзывами") - web__kurs__practic верстка блока с отзывами
+
+[web__kurs__practic__секция отзывов](https://mihailegorov.github.io/web__kurs__practic__секция%20отзывов__адаптив/ "адаптив блока с отзывами") - web__kurs__practic адаптив блока с отзывами
