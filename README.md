@@ -17,3 +17,6 @@
 [web__kurs__practic__секция отзывов](https://mihailegorov.github.io/web__kurs__practic__секция%20отзывов/ "верстка блока с отзывами") - web__kurs__practic верстка блока с отзывами
 
 [web__kurs__practic__секция отзывов](https://mihailegorov.github.io/web__kurs__practic__секция%20отзывов__адаптив/ "адаптив блока с отзывами") - web__kurs__practic адаптив блока с отзывами
+
+[web__kurs__practic__секция работ](https://mihailegorov.github.io/web__kurs__practic__секция%20схема%20работ/ "адаптив и верстка блока работ") - web__kurs__practic адаптив и верстка блока работ
+
