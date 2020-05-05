@@ -20,3 +20,4 @@
 
 [web__kurs__practic__секция работ](https://mihailegorov.github.io/web__kurs__practic__секция%20схема%20работ/ "адаптив и верстка блока работ") - web__kurs__practic адаптив и верстка блока работ
 
+[web__kurs__practic__секция Мы развеем сомнения](https://mihailegorov.github.io/web__kurs__practic__секция%20Мы%20развеем%20сомнения/ "адаптив и верстка блока Мы развеем ваши сомнения") - web__kurs__practic адаптив и верстка блока "Мы развеем ваши сомнения"
